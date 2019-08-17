@@ -1,3 +1,19 @@
+/*
+* @file find_pingpong.cpp
+* @brief This is my fist code that help me get a sight of OpenCV. I was using this code to pass an entrance examination
+  	in V5++ team. I think this code is full of value.
+* @author Weipeng.Xue  <goodxue@gmail.com>
+* @version 1.0.0
+*
+************************************************
+*
+* Copyright (c) 2019 Weipeng.Xue.
+*
+* All rights reserved.
+*
+************************************************
+*/
+
 #include <opencv2/opencv.hpp>
 using namespace std;
 using namespace cv;
